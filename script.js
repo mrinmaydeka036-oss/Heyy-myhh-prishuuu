@@ -56,6 +56,9 @@ envelope.addEventListener("click", () => {
         home.classList.remove("active");
         letterPage.classList.add("active");
 
+        typing.innerHTML = "";
+        index = 0 ;
+
         typeLetter();
 
     },1800);

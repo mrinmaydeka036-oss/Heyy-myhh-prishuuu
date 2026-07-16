@@ -182,12 +182,11 @@ margin-bottom:25px;
 }
 
 #typing{
-
-font-size:25px;
-line-height:1.8;
-white-space:pre-wrap;
-min-height:280px;
-
+    font-size:25px;
+    line-height:1.8;
+    white-space:pre-wrap;
+    height:55vh;
+    overflow-y:auto;
 }
 
 #next{

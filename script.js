@@ -14,7 +14,7 @@ const next = document.getElementById("next");
 const yes = document.getElementById("yes");
 const video = document.getElementById("video");
 
-const message = `My Love ❤️
+ const message =` My Love ❤️
 
 If you're reading this...
 
@@ -39,7 +39,7 @@ protect you,
 care for you,
 and never leave your hand.
 
-❤️ Forever Yours ❤️`;
+❤️ Forever Yours ❤️ ` ;
 
 let index = 0;
 

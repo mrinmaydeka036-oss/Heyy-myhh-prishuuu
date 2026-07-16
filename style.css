@@ -180,12 +180,11 @@ margin-bottom:25px;
 }
 
 #typing{
-    font-size:25px;
-    line-height:1.8;
-    white-space:pre-wrap;
-    height:60vh;
-    overflow-y:auto;
+font-size:25px;
+line-height:1.8;
+white-space:pre-wrap;
 }
+
 
 #next{
 

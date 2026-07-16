@@ -295,3 +295,15 @@ margin-top:20px;
 font-size:28px;
 
                     }
+#video{
+display:block;
+}
+
+.letter{
+overflow:hidden;
+}
+
+#typing{
+overflow-y:auto;
+max-height:55vh;
+}

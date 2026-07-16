@@ -159,17 +159,15 @@ transform:translateY(-8px);
   }
 
 .paper{
-
 width:min(90%,700px);
 background:#f8ecd3;
 color:#3b2a1b;
 padding:45px;
 border-radius:12px;
 box-shadow:0 25px 60px rgba(0,0,0,.5);
-  
-  max-height:none;
-  overflow:visible;
 
+max-height:90vh;
+overflow-y:auto;
 }
 
 .paper h1{

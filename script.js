@@ -67,6 +67,7 @@ function typeLetter(){
     if(index < message.length){
 
         typing.innerHTML += message.charAt(index);
+        typing.scrollTop = typing.scrollHeight;
 
         index++;
 
